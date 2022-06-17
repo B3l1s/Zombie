@@ -27,4 +27,5 @@ public class spawnpoint : MonoBehaviour
         spawnPosition = new Vector3(Random.Range(RangeLeftX.position.x, RangeRightX.position.x), Random.Range(RangeDownY.position.y, RangeUpY.position.y),0);
         GameObject enemi = Instantiate(enemy[Random.Range(0,enemy.Length)],spawnPosition,gameObject.transform.rotation);
     }
+   
 }
