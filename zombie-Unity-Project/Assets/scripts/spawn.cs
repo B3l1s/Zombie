@@ -9,8 +9,6 @@ public class spawn : MonoBehaviour
     [SerializeField] private float distanceMin;
     private SpriteRenderer spriteRenderer;
     private int elquesigue = 0;
-   
-
 
     private void Start()
     {
