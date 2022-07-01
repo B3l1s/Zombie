@@ -446,9 +446,10 @@ MonoBehaviour:
   - {fileID: 285290461}
   life: 3
   enemy:
-  - {fileID: 4169598539792599317, guid: 6b7190485e7e43142aace383f488a1ee, type: 3}
-  - {fileID: 2081375329635090817, guid: 46c05e99c339be54b8aace2f3aff7110, type: 3}
-  - {fileID: 467364339909221686, guid: ede0d9a6193125946833232bdfd25507, type: 3}
+  - {fileID: 3169948099311620389, guid: c75b90769dba38a4588bd140ff70ed7c, type: 3}
+  - {fileID: 8422839813078902311, guid: fc9ee565e62e6f84781b0cad6abae86b, type: 3}
+  - {fileID: 4096875076622607763, guid: 1ae10523c5f18ce44a0b46b76beabf33, type: 3}
+  - {fileID: 713061394190558727, guid: aa201cf6ebb12d047b56e92df6af4399, type: 3}
 --- !u!50 &299913415
 Rigidbody2D:
   serializedVersion: 4
@@ -957,7 +958,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -86, y: 251}
+  m_AnchoredPosition: {x: -109.7, y: 288.1}
   m_SizeDelta: {x: 160, y: 43.8853}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &977057743
@@ -1330,7 +1331,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2007922429}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.9776039, y: 0.25516918, z: -38.45577}
+  m_LocalPosition: {x: -0.02, y: -0.02, z: -38.45577}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

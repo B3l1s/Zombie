@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objetofind: {fileID: 0}
-  speed: 5
+  speed: 7
   puntos:
   - {fileID: 3984638845017734635, guid: dfc07387908b47641ac2726c7543ea35, type: 3}
   - {fileID: 17790922557766369, guid: 84d97b2e3aea85d45b87bf3cb6fbed94, type: 3}
